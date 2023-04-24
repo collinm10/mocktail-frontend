@@ -3,13 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@aws-amplify/api": "^5.0.25",
-    "@aws-amplify/pubsub": "^5.1.8",
     "@aws-sdk/client-iot": "^3.310.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "aws-amplify": "^5.0.25",
     "aws-iot-device-sdk": "^2.2.12",
     "aws-sdk": "^2.1354.0",
     "bootstrap": "^5.2.3",
