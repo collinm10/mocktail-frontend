@@ -1,0 +1,9 @@
+.IngredientDashboard-Header{
+    font-size: 2rem;
+    margin: 1rem;
+}
+
+.ingredient-sub-comp-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

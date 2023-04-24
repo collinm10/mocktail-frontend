@@ -1,0 +1,16 @@
+.drink-button{
+    font: 2rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.DrinkOrderMenu-Header{
+    font-size: 3rem;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: flex-column;
+    align-items: center;
+    justify-content: center;
+}
