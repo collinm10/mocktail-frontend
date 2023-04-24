@@ -10,7 +10,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "aws-amplify": "^5.0.25",
-    "aws-amplify-react": "^5.1.43",
     "aws-iot-device-sdk": "^2.2.12",
     "aws-sdk": "^2.1354.0",
     "bootstrap": "^5.2.3",
